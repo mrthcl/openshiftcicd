@@ -1,0 +1,12 @@
+contexts:
+- name: a4a20e3f148da48d69a258385124e89e-1847647009.us-east-2.elb.amazonaws.com
+  server: a4a20e3f148da48d69a258385124e89e-1847647009.us-east-2.elb.amazonaws.com
+  user: a4a20e3f148da48d69a258385124e89e-1847647009.us-east-2.elb.amazonaws.com
+current-context: a4a20e3f148da48d69a258385124e89e-1847647009.us-east-2.elb.amazonaws.com
+servers:
+- grpc-web-root-path: ""
+  insecure: true
+  server: a4a20e3f148da48d69a258385124e89e-1847647009.us-east-2.elb.amazonaws.com
+users:
+- auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2NDY4OTgwODUsImp0aSI6IjdjMTIyOGYwLTk1YTQtNDY0NC05YzJlLTZkZDI4MjRhMGUxMSIsImlhdCI6MTY0NjgxMTY4NSwiaXNzIjoiYXJnb2NkIiwibmJmIjoxNjQ2ODExNjg1LCJzdWIiOiJhZG1pbjpsb2dpbiJ9.epllyMjkG0GiFq3PkkKdIUwPWA2VmghCpR_y2qrhw8I
+  name: a4a20e3f148da48d69a258385124e89e-1847647009.us-east-2.elb.amazonaws.com
